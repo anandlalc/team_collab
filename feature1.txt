@@ -10,3 +10,6 @@ features added
 version 2
 
 >>>>>>> 6ee99ca8fc419f5a1356f848799a5f7921634e1e
+bug has been fixed!!!!!!!!
+fix applied
+
