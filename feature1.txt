@@ -17,4 +17,10 @@ testing cherrypicking
 Fixing the bug!!!!!!!!!
 =======
 >>>>>>> 6ee99ca8fc419f5a1356f848799a5f7921634e1e
+<<<<<<< HEAD
+>>>>>>> add
+=======
+bug has been fixed!!!!!!!!
+fix applied
+
 >>>>>>> add
